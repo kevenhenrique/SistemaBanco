@@ -1,0 +1,14 @@
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\bin\Debug\net8.0\projetoBancoExercício.exe
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\bin\Debug\net8.0\projetoBancoExercício.deps.json
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\bin\Debug\net8.0\projetoBancoExercício.runtimeconfig.json
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\bin\Debug\net8.0\projetoBancoExercício.dll
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\bin\Debug\net8.0\projetoBancoExercício.pdb
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\obj\Debug\net8.0\projetoBancoExercício.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\obj\Debug\net8.0\projetoBancoExercício.AssemblyInfoInputs.cache
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\obj\Debug\net8.0\projetoBancoExercício.AssemblyInfo.cs
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\obj\Debug\net8.0\projetoBancoExercício.csproj.CoreCompileInputs.cache
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\obj\Debug\net8.0\projetoBancoExercício.dll
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\obj\Debug\net8.0\refint\projetoBancoExercício.dll
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\obj\Debug\net8.0\projetoBancoExercício.pdb
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\obj\Debug\net8.0\projetoBancoExercício.genruntimeconfig.cache
+C:\Users\Keven Henrique\Documents\Projetos c#\projetoBancoExercício\projetoBancoExercício\obj\Debug\net8.0\ref\projetoBancoExercício.dll
